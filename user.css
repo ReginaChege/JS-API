@@ -1,0 +1,23 @@
+.form{
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+.form >input{
+    padding: 12px 20px;
+    width: 40%;
+    border-radius: 5px;
+    outline: none;
+    border: solid #E2E2E2 1px;
+    font-size: 18px;
+}
+.form >button{
+    border: none;
+    outline: none;
+    padding: 12px,20px;
+    background-color: #a124cc;
+    color: #ffffff ;
+    border-radius: 5px;
+    font-size: 18px;
+    height: 20px;
+}
